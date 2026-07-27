@@ -1,4 +1,4 @@
-#🏏 Ashes Cricket Simulator (C++)
+🏏 Ashes Cricket Simulator (C++)
  
 An interactive, console-based cricket match simulator built in C++, recreating a fictional **Ashes Test match** between **Australia** and **England**. The program simulates a full match ball-by-ball with live scorecards, colored terminal commentary, wicket tracking, and a dramatic match summary at the end.
  
